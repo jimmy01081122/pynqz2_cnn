@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.vvp
+*.wdb
+*.jou
+*.log
+*.str
+*.bit
+*.hwh
+*.xsa
+*.dcp
+.Xil/
+build/
+artifacts/
+demo_results/
+

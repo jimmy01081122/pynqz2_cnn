@@ -1,0 +1,6 @@
+config,display_name,data_width,sparsity,target_clock_ns,lut,ff,dsp,bram,wns_ns,fmax_est_mhz,power_w,accuracy_pct,latency_cycles,throughput_gops,status,data_source,notes
+dense_int8,Dense INT8,8,dense,10,,,,,,,,,,,not_measured,user_measurement_required,請填入自己的可追溯結果
+dense_int4,Dense INT4,4,dense,10,,,,,,,,,,,not_measured,user_measurement_required,請填入自己的可追溯結果
+int8_2to4,INT8 2:4,8,2:4,10,,,,,,,,,,,not_measured,user_measurement_required,請填入自己的可追溯結果
+int4_2to4,INT4 2:4,4,2:4,10,,,,,,,,,,,not_measured,user_measurement_required,請填入自己的可追溯結果
+

@@ -1,0 +1,6 @@
+config,display_name,data_width,sparsity,target_clock_ns,lut,ff,dsp,bram,wns_ns,fmax_est_mhz,power_w,accuracy_pct,latency_cycles,throughput_gops,status,data_source,notes
+dense_int8,Dense INT8,8,dense,10,8200,7100,64,18,0.42,104.4,1.72,78.4,1200,28.1,illustrative,ILLUSTRATIVE_ONLY_DO_NOT_REPORT,虛構教學數據；不是 Vivado 或板上實測
+dense_int4,Dense INT4,4,dense,10,6300,5900,48,12,0.77,108.3,1.35,76.9,980,34.0,illustrative,ILLUSTRATIVE_ONLY_DO_NOT_REPORT,虛構教學數據；不是 Vivado 或板上實測
+int8_2to4,INT8 2:4,8,2:4,10,6900,6500,48,18,0.58,106.2,1.48,77.6,820,40.2,illustrative,ILLUSTRATIVE_ONLY_DO_NOT_REPORT,虛構教學數據；不是 Vivado 或板上實測
+int4_2to4,INT4 2:4,4,2:4,10,5200,5200,32,12,1.05,111.7,1.14,75.8,690,46.5,illustrative,ILLUSTRATIVE_ONLY_DO_NOT_REPORT,虛構教學數據；不是 Vivado 或板上實測
+

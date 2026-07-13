@@ -1,0 +1,5 @@
+# CPU 或 GPU 版本請依課堂電腦與 PyTorch 官方安裝指引選擇。
+numpy>=1.24,<3
+torch>=2.1,<3
+torchvision>=0.16,<1
+
