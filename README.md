@@ -1,4 +1,4 @@
-# PYNQ-Z2 可配置精度／2:4 稀疏 CNN 加速器：6 日實作課程
+# PYNQ-Z2 adaptive／2:4 sparse CNN element
 
 這是一份給「學過數位邏輯與 Python，但沒有用過 Vivado」學生的完整專案教材。原本 W1～W12 的內容已重新整理成 6 個獨立 Lab；每個 Lab 對應原進度的兩週，預計一天完成一個 Lab。
 
